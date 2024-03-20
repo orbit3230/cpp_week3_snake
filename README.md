@@ -1,1 +1,0 @@
-# cpp_week3_snake
